@@ -1,0 +1,75 @@
+[11:17:44.057]  itertations per epoch of trainloader: 50 ;
+[11:17:46.083] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:46.088] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:46.110] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:46.165] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:47.744] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:47.747] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:47.766] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:47.807] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:49.184] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:49.281] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:49.281] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:49.328] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:49.443] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:50.666] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:50.798] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:50.836] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:50.938] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:52.274] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:52.530] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:52.571] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:52.574] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:53.708]  shape of input_batch: torch.Size([4, 1, 64, 64, 64]) ;
+[11:17:53.992] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:54.119] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:54.136] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:54.208] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:54.273]  shape of input_batch: torch.Size([4, 1, 64, 64, 64]) ;
+[11:17:54.277]  shape of input_batch: torch.Size([4, 1, 64, 64, 64]) ;
+[11:17:54.288]  shape of input_batch: torch.Size([4, 1, 64, 64, 64]) ;
+[11:17:55.495] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:55.579] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:55.584] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:55.664] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:56.908] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:57.034] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:57.188] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:57.487]  shape of input_batch: torch.Size([4, 1, 64, 64, 64]) ;
+[11:17:57.543]  shape of input_batch: torch.Size([4, 1, 64, 64, 64]) ;
+[11:17:57.745] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:58.042]  shape of input_batch: torch.Size([4, 1, 64, 64, 64]) ;
+[11:17:58.046]  shape of input_batch: torch.Size([4, 1, 64, 64, 64]) ;
+[11:17:58.362] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:58.742] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:58.899] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:58.978] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:17:59.389] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:00.077] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:00.352] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:00.549] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:00.579] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:01.200] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:01.726] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:01.810] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:01.826] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:02.401] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:02.855] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:02.954] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:03.384] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:03.586] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:03.627]  shape of input_batch: torch.Size([4, 1, 64, 64, 64]) ;
+[11:18:03.634]  shape of input_batch: torch.Size([4, 1, 64, 64, 64]) ;
+[11:18:03.641]  shape of input_batch: torch.Size([4, 1, 64, 64, 64]) ;
+[11:18:03.648]  shape of input_batch: torch.Size([4, 1, 64, 64, 64]) ;
+[11:18:03.895] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:04.015] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:04.476] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:04.638] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:04.982] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:05.059] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:05.548] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:05.829] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:06.145] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:06.259] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
+[11:18:06.616] pixdim[0] (qfac) should be 1 (default) or -1; setting qfac to 1
